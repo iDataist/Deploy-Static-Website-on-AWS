@@ -36,9 +36,10 @@ In this project, I deployed a static website to AWS using S3, CloudFront, and IA
     ![](screenshots/5.png)
     ![](screenshots/6.png)
     ![](screenshots/7.png)
+    ![](screenshots/8.png)
 6. Check the website
 
     Distribution Domain Name: https://d9fstx3qxlooz.cloudfront.net
 
     Bucket Websit Endpoint: http://travel-website-20211010.s3-website-us-east-1.amazonaws.com
-    ![](screenshots/8.png)
+    ![](screenshots/9.png)
